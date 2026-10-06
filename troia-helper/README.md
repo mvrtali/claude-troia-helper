@@ -18,7 +18,7 @@ by CANIAS ERP, so it reads, writes and reviews TROIA code correctly.
 From Claude Code:
 
 ```
-/plugin marketplace add D:\web\htdocs\claude-plugins
+/plugin marketplace add mvrtali/claude-troia-helper
 /plugin install troia-helper@mavera-plugins
 ```
 
