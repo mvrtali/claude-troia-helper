@@ -1,0 +1,12 @@
+{
+  "name": "troia-helper",
+  "description": "TroiaHelper - teaches Claude the TROIA programming language (CANIAS ERP) so it reads, writes and reviews TROIA code correctly. Unofficial community plugin.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Mavera Yazılım"
+  },
+  "homepage": "https://github.com/mvrtali/claude-troia-helper",
+  "repository": "https://github.com/mvrtali/claude-troia-helper",
+  "license": "MIT",
+  "keywords": ["troia", "canias", "erp", "ias"]
+}

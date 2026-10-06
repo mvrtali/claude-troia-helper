@@ -1,0 +1,13 @@
+{
+  "name": "mavera-plugins",
+  "owner": {
+    "name": "Mavera Yazılım"
+  },
+  "plugins": [
+    {
+      "name": "troia-helper",
+      "source": "./troia-helper",
+      "description": "TroiaHelper - TROIA language knowledge for CANIAS ERP development."
+    }
+  ]
+}
